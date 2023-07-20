@@ -1,4 +1,8 @@
-## Hi There! 
+<img src="https://i0.wp.com/www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png" align="right" width=120 />
+
+# Hi There! 
+
+## Welcome to Yuzuki Hardware OpenSource 
 
 Here is YuzukiTsuru's hardware project organization, including open source hardware design, software source code, related documents, and some development kits
 
