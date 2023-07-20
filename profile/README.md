@@ -2,7 +2,7 @@
 
 # Hi There! 
 
-## Welcome to Yuzuki Hardware OpenSource 
+## Welcome to YuzukiTsuru Hardware Open Source
 
 Here is YuzukiTsuru's hardware project organization, including open source hardware design, software source code, related documents, and some development kits
 
